@@ -15,4 +15,5 @@
 ##### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow: Coursera](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
 
 
-- #### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
+- #### Others
+##### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
