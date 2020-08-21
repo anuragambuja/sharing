@@ -18,3 +18,4 @@ _When you have a pearl, you wear it. When you have many, you keep it in safe._
 
 - #### Others
 ##### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
+##### [Kaggle - Intro to SQL](https://www.kaggle.com/learn/certification/anuragambuja/intro-to-sql)
