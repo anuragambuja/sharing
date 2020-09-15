@@ -15,6 +15,9 @@ _When you have a pearl, you wear it. When you have many, you keep it in safe._
 ##### [Google Cloud Platform Fundamentals: Core Infrastructure: Coursera](https://www.coursera.org/account/accomplishments/certificate/W89HM8F42RLK)
 ##### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow: Coursera](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
 
+- #### PGDDS
+##### [PGDDS Admission Letter - DS C23 August 2020]()
+##### [PGDDS C23 - August 2020 Prep Certificate]()
 
 - #### Others
 ##### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
