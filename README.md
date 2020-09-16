@@ -1,5 +1,5 @@
 
-###### Sharing the struggle and accomplishments :) :D 
+###### Sharing the Struggle and Accomplishments :) :D 
 
 
 - ###### [Ques](https://github.com/anuragambuja/sharing/tree/master/Ques)
