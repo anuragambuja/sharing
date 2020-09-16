@@ -25,3 +25,7 @@ _When you have a pearl, you wear it. When you have many, you keep it in safe._
 ##### [Kaggle - Advanced SQL](https://www.kaggle.com/learn/certification/anuragambuja/advanced-sql)
 ##### [Kaggle - Python](https://www.kaggle.com/learn/certification/anuragambuja/python)
 ##### [Kaggle - Pandas](https://www.kaggle.com/learn/certification/anuragambuja/pandas)
+##### [HackerRank - SQL (Basic)](https://www.hackerrank.com/certificates/c42bf50a0d3a)
+##### [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/923e912f0b2e)
+##### [HackerRank - SQL (Intermediate)](https://www.hackerrank.com/certificates/800e5cb85fc7)
+##### [HackerRank - Problem Solving (Basic)](https://www.hackerrank.com/certificates/0ba0084b4fa4)
