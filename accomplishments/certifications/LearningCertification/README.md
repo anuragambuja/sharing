@@ -16,7 +16,6 @@ _When you have a pearl, you wear it. When you have many, you keep them in safe._
 ##### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow: Coursera](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
 
 - #### PGDDS
-##### [PGDDS Admission Letter - DS C23 August 2020](https://www.credential.net/8ec103cd-f530-46de-89c7-8f646e17b76f#gs.fo75op)
 ##### [PGDDS C23 - August 2020 Prep Certificate](https://www.credential.net/e9b0a44d-25f0-4b2c-8964-2cb1473767a5#gs.fo7blr)
 
 - #### Others
