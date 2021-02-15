@@ -17,6 +17,7 @@ _When you have a pearl, you wear it. When you have many, you keep them in safe._
 
 - #### PGDDS
 ##### [PGDDS C23 - August 2020 Prep Certificate](https://www.credential.net/e9b0a44d-25f0-4b2c-8964-2cb1473767a5#gs.fo7blr)
+##### [PGDDS Course 1: Data Toolkit](https://www.credential.net/9a45f591-cd18-4319-ae0f-869de2d7afc0#gs.szquc5)
 
 - #### Others
 ##### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
